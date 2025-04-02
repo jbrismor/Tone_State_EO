@@ -1,3 +1,4 @@
 data/raw/*
 data/clean/*
 *.csv
+.DS_Store
